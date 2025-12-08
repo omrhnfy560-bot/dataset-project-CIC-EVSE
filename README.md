@@ -40,3 +40,6 @@ Performance evaluation (accuracy, precision, recall, F1-score)
 Omar Mahmoud
 Student ID: 220304141  
 Fenerbahce University
+
+
+ I received the invitation. I do confirm I can access the documents. Group 27 // Please add this at the very beginning in the project report name. Mennan Guder (08.12.2025)
